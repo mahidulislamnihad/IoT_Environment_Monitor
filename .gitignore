@@ -1,0 +1,20 @@
+# Ignore Arduino build and private files
+build/
+.pio/
+*.bin
+*.elf
+*.hex
+*.eep
+*.dmp
+*.o
+*.d
+*.map
+*.a
+*.lst
+.vscode/
+.DS_Store
+credentials.h
+credentials/
+*.pem
+*.crt
+*.key
