@@ -1,4 +1,4 @@
-# Ignore Arduino build and private files
+# Ignore Arduino build artifacts
 build/
 .pio/
 *.bin
@@ -11,8 +11,12 @@ build/
 *.map
 *.a
 *.lst
+
+# Ignore IDE and system files
 .vscode/
 .DS_Store
+
+# Ignore credentials and private keys
 credentials.h
 credentials/
 *.pem
