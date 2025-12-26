@@ -18,7 +18,7 @@ ESP32 + DHT11 IoT prototype demonstrating:
 | 1 | firmware_local | Reads DHT11 & prints temperature/humidity | Completed |
 | 2 | firmware_mqtt_hivemq | Sends JSON data to HiveMQ Cloud | Completed |
 | 3 | firmware_freertos | FreeRTOS tasks: sensor + publisher | Completed |
-| 4 | On Device ML | TinyML Tensorflow Lite Based Environmental Classification | In progress Hopefully upload codes within 26 December 2025 |
+| 4 | On Device ML | TinyML Tensorflow Lite Based Environmental Classification | Created Different Repo [On_Device_ML](https://github.com/mahidulislamnihad/On_Device_ML) |
 ---
 
 ## 🚀 Quick Start
